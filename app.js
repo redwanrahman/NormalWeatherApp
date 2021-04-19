@@ -1,5 +1,5 @@
-var input = document.querySelector('.input_text');
-var main = document.querySelector('#name');
+const input = document.querySelector('.input_text');
+const main = document.querySelector('#name');
 const temp = document.querySelector('.temp');
 const desc = document.querySelector('.desc');
 const clouds = document.querySelector('.clouds');
